@@ -1,9 +1,9 @@
 ---
-title: This is my first post
+title: Mon premier post
 description: Capitalize on low hanging fruit to identify a ballpark value added
   activity to beta test. Override the digital divide with additional
   clickthroughs from DevOps.
-author: Surjith S M
+author: meutho
 date: 2020-09-01
 tags:
   - left
@@ -15,6 +15,8 @@ tags:
 ## This is a Heading h2
 
 ###### This is a Heading h6
+
+![elefant](/static/img/elephant-walking-transparent-background.png "Elefant")
 
 ## Emphasis
 
