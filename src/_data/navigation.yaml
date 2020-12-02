@@ -1,5 +1,5 @@
 items:
-  - text: Menu One
-    url: "#"
-  - text: Menu Two
-    url: "#"
+  - text: Home
+    url: https://compassionate-pare-2bd782.netlify.app/
+  - text: Blog
+    url: https://compassionate-pare-2bd782.netlify.app/blog/
